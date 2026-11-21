@@ -1,0 +1,10 @@
+---
+title: "An Introduction"
+date: "2026-11-21"
+---
+## Where it started
+Hi! My name is Kiet but I usually go by Kevin. I am a senior in high school and I have chosen CS as my major for the next four years. Truth is, I have already started this journey a long time ago. Formally, it was last December that I entered an AI/ML course. Throughout that time period, I have come to realize how important it was to be able to write down your thoughts. It doesn't only serve as a way to note things down but it is the most effective way for me to organize and actually grasp the materials.
+
+And that brings us here. Writing is something I'm still not used to since English is my second language, but I hope this series of posts will be continued throughout college or even longer. The posts should mainly revolve around topics I found interesting in tech, AI or ML. 
+
+Cheers to many more posts to come! (hopefully)

@@ -7,3 +7,4 @@ about:
       text: GitHub
       href: https://github.com/kietdoletuan
 ---
+Hi, my name is Kiet! I am a 17-year-old stumbling my way through my CS journey.
