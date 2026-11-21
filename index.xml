@@ -10,6 +10,28 @@
 <atom:link href="https://kietdoletuan.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Blog profile created to document and reinforce my learning on AI/ML</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Sun, 08 Nov 2026 10:33:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 17:00:00 GMT</lastBuildDate>
+<item>
+  <title>An Introduction</title>
+  <link>https://kietdoletuan.github.io/posts/introduction/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="where-it-started" class="level2">
+<h2 class="anchored" data-anchor-id="where-it-started">Where it started</h2>
+<p>Hi! My name is Kiet but I usually go by Kevin. I am a senior in high school and I have chosen CS as my major for the next four years. Truth is, I have already started this journey a long time ago. Formally, it was last December that I entered an AI/ML course. Throughout that time period, I have come to realize how important it was to be able to write down your thoughts. It doesn’t only serve as a way to note things down but it is the most effective way for me to organize and actually grasp the materials.</p>
+<p>And that brings us here. Writing is something I’m still not used to since English is my second language, but I hope this series of posts will be continued throughout college or even longer. The posts should mainly revolve around topics I found interesting in tech, AI or ML.</p>
+<p>Cheers to many more posts to come! (hopefully)</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://kietdoletuan.github.io/posts/introduction/</guid>
+  <pubDate>Fri, 20 Nov 2026 17:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
